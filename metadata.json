@@ -1,0 +1,5 @@
+{
+  "name": "Copy of YTS Movie Torrent Clone",
+  "description": "A high-fidelity clone of the YTS (YIFY) movie torrent site featuring a responsive homepage, integrated admin dashboard for torrent uploads, and a mock authentication system.",
+  "requestFramePermissions": []
+}
